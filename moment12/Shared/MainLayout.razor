@@ -1,0 +1,20 @@
+﻿@inherits LayoutComponentBase
+
+<header>
+    <div>
+        <img src="~/menu.png" alt="menu icon" id="hamburger" />
+    </div>
+    <a asp-area="" asp-page="/Index" class="logo">Moment 1.2</a>
+</header>
+<main>
+    <aside id="menu">
+        <NavMenu />
+    </aside>
+    <div class="container">
+        @Body
+    </div>
+</main>
+ 
+<footer>
+    <p>Av Lina Petersson - Kontakta mig via e-post: lipe2106@student.miun.se</p>
+</footer>
