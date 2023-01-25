@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-8WKSPZmpZSaoaowyWbHx+MzbhA1mvhUxg7+CVMZ8Mrc=",
+      "hash": "sha256-iJQbMGrydPy4+UEPPUOCnpWn8Ubeo2SyczXnpHc77rs=",
       "url": "css\/main.css"
     },
     {
@@ -29,8 +29,8 @@
       "url": "menu.png"
     },
     {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
-      "url": "sample-data\/weather.json"
+      "hash": "sha256-l7S8mGvlnSWoDPtSIpng0Msweq8TfaiOhrVSvJWE\/eY=",
+      "url": "sample-data\/courses.json"
     },
     {
       "hash": "sha256-z4GZC8zBP0+3qTsoIBdCEOvwWaWDTpt8U1vr1aLEkI4=",
@@ -825,11 +825,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-D5BoXh4tD9wqKtNFkht2PjrdhPJNHCN8UDEbyIZ2Gcw=",
+      "hash": "sha256-nnq7q1aU+mswcyXPu2sQmtaexLtE05sHfqEEvZLiQR4=",
       "url": "_framework\/moment12.dll"
     },
     {
-      "hash": "sha256-OrtqqfY5fUGNkIJr5lMD2lOHJG\/t0XY2CT\/hiAsqusY=",
+      "hash": "sha256-OX8Z9Sgipn8cCRt6rLEttr+G5MQg6l0lL6cfvllPOJY=",
       "url": "_framework\/moment12.pdb"
     },
     {
@@ -837,9 +837,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-gNA+NTaGLFvCwZCanNA6a\/DZFYzSF7AAOa+Tu6n+FiE=",
+      "hash": "sha256-3fAjkJqxrktvq6DJ57onrf0e1AEarwmYIYEAqhJnk0Y=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "7QSODCVy"
+  "version": "5w3kL3jp"
 };

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tPy8iljXccSDjpoUXLq7C5ahv9NYCoGzOKYC21DZ6d0=",
+  "Hash": "EsU4keX02jkh9yh8kH6IN3WbROhKdU54VeJBTtYlCT0=",
   "Source": "moment12",
   "BasePath": "/",
   "Mode": "Root",
@@ -7055,12 +7055,12 @@
       "OriginalItemSpec": "wwwroot\\menu.png"
     },
     {
-      "Identity": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\sample-data\\courses.json",
       "SourceId": "moment12",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
+      "RelativePath": "sample-data/courses.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7069,7 +7069,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+      "OriginalItemSpec": "wwwroot\\sample-data\\courses.json"
     }
   ]
 }

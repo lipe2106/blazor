@@ -1,0 +1,67 @@
+﻿[
+  {
+    "code": "DT057G",
+    "name": "Webbutveckling I",
+    "syllabus": "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15472"
+  },
+  {
+    "code": "DT084G",
+    "name": "Introduktion till programmering i JavaScript",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30811"
+  },
+  {
+    "code": "DT163G",
+    "name": "Digital bildbehandling för webb",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24403"
+  },
+  {
+    "code": "DT068G",
+    "name": "Webbanvändbarhet",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30823"
+  },
+  {
+    "code": "DT003G",
+    "name": "Databaser",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21595"
+  },
+  {
+    "code": "DT093G",
+    "name": "Webbutveckling II",
+    "syllabus": "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+  },
+  {
+    "code": "DT197G",
+    "name": "Webbdesign för CMS",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31118"
+  },
+  {
+    "code": "DT173G",
+    "name": "Webbutveckling III",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31475"
+  },
+  {
+    "code": "IK060G",
+    "name": "Projektledning",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31886"
+  },
+  {
+    "code": "DT193G",
+    "name": "Fullstack- utveckling med ramverk",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31728"
+  },
+  {
+    "code": "DT071G",
+    "name": "Programmering i C#.NET",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=25557"
+  },
+  {
+    "code": "DT162G",
+    "name": "JavaScriptbaserad webbutveckling",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=19689"
+  },
+  {
+    "code": "DT191G",
+    "name": "Webbutveckling med .NET [Pågående]",
+    "syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=32290"
+  }
+]
