@@ -3,8 +3,9 @@
 <PageTitle>Konvertering</PageTitle>
 
 <h1>Konvertering</h1>
-<p>På denna sida kan du konvertera kilometer/h till miles/h.<br />Skriv in kilometer nedan och få svaret genom att klicka på knappen</p>
+<p>På denna sida kan du konvertera kilometer/h till miles/h och meter till feet.<br />Skriv in kilometer/ meter nedan och få resultatet genom att klicka på respektive knapp</p>
 
+<h2 class="convert-h2">Kilometer/h - Miles/h</h2>
 <div class="form">
     <label for="km">Kilometer:</label>
     <input type="number" id="km" @bind="kmph" />
@@ -12,12 +13,29 @@
 </div>
 <p><strong>Resultat:</strong> @kmph kilometer/h är @mph miles/h</p>
 
-@code {
+<h2 class="convert-h2">Meter - Feet</h2>
+<div class="form">
+    <label for="m">Meter:</label>
+    <input type="number" id="m" @bind="meter" />
+    <button @onclick="meterToFeet">Konvertera</button>
+</div>
+<p><strong>Resultat:</strong> @meter meter är @feet feet</p>
 
+@code {
+    // Convert kilometer to miles
     private double mph;
     private double kmph;
     private void kmphToMph()
     {
         mph = (int)(0.6214 * kmph);
+    }
+
+    // Convert meter to feet
+    private double meter;
+    private double feet;
+    private void meterToFeet()
+    {
+        feet = 3.2808399 * meter;
+        feet = Math.Round(feet, 1);
     }
 }
