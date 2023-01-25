@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
+      "Id": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\menu.png",
+      "PackagePath": "staticwebassets\\menu.png"
+    },
+    {
       "Id": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

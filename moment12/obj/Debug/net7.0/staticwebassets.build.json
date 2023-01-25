@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kVSoVOHMD6f4ANBFltCmKMnh+U85OR/8Una47wJjiK0=",
+  "Hash": "tPy8iljXccSDjpoUXLq7C5ahv9NYCoGzOKYC21DZ6d0=",
   "Source": "moment12",
   "BasePath": "/",
   "Mode": "Root",
@@ -7036,6 +7036,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\menu.png",
+      "SourceId": "moment12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "menu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.png"
     },
     {
       "Identity": "C:\\Users\\Lina\\Desktop\\webbutveckling\\.NET\\moment 1\\moment12\\moment12\\wwwroot\\sample-data\\weather.json",

@@ -3,16 +3,21 @@
 <PageTitle>Konvertering</PageTitle>
 
 <h1>Konvertering</h1>
+<p>På denna sida kan du konvertera kilometer/h till miles/h.<br />Skriv in kilometer nedan och få svaret genom att klicka på knappen</p>
 
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<div class="form">
+    <label for="km">Kilometer:</label>
+    <input type="number" id="km" @bind="kmph" />
+    <button @onclick="kmphToMph">Konvertera</button>
+</div>
+<p><strong>Resultat:</strong> @kmph kilometer/h är @mph miles/h</p>
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    private double mph;
+    private double kmph;
+    private void kmphToMph()
     {
-        currentCount++;
+        mph = (int)(0.6214 * kmph);
     }
 }

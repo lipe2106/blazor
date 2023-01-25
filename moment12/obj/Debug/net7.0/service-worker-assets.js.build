@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-1gdOPtyNe5UKuaXJXHaZB9rEbIcZJcVBeNZ8UXFMOOM=",
+      "hash": "sha256-7nDkAtQGLKx9QEqbWhC2zvh1Rdjcs3qufsW5uPWhn1I=",
       "url": "css\/main.css"
     },
     {
@@ -17,12 +17,16 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-x+NUhhT1cEi4FF7LZiWpnQwr2tYyVfmNhqq5kxmqMZM=",
+      "hash": "sha256-H9LPaAFbU3VpvNo\/PtEyB9q5HyxqNaUYSpZLpwssis8=",
       "url": "index.html"
     },
     {
       "hash": "sha256-5OMeGRZUYYTt7QGZu8n5ts1BH5R7ddRFBVswJRIwFAw=",
       "url": "manifest.json"
+    },
+    {
+      "hash": "sha256-krtEc80CbuPKXZJsBVih3M02icRa5Bn2W86eB0MPAc4=",
+      "url": "menu.png"
     },
     {
       "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
@@ -821,11 +825,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-FdI6KWPwWKkN0flHPBKjlAJBSHUZzuBrXpyECtFUnc8=",
+      "hash": "sha256-nu\/mZx3etd2RhnQtbL9iKpVgoh0F5xwsFV3xgNhusSw=",
       "url": "_framework\/moment12.dll"
     },
     {
-      "hash": "sha256-sGLDkGUGURd9XtiKYe1bwiPnQRGJkr17XGzQAuMWX4s=",
+      "hash": "sha256-vm\/rgqDfhbuKlRKfpjqTk9abO4YxAKU+GPmZgXXLzsY=",
       "url": "_framework\/moment12.pdb"
     },
     {
@@ -833,9 +837,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-p0vLPf1UjP\/vomr2k6uVXLOmxq0U+7xK8qmIng1iDLk=",
+      "hash": "sha256-3tuGHieM87dsuYfJmIsJlr4P16ZlBlyo2TKc5kl2OJo=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "wk9zd+M8"
+  "version": "EjIiZOkv"
 };
