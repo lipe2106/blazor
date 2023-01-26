@@ -1,0 +1,14 @@
+﻿<h2>Gillar du sidan?</h2>
+<button @onclick="likePage" class="likeBtn">Klicka här</button>
+<p>Sidan har fått @likes likes. @thanks</p>
+
+@code {
+    private int likes = 0;
+    private string thanks = "";
+
+    private void likePage()
+    {
+        likes++;
+        thanks = "Tack så mycket!";
+    }
+}

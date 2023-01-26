@@ -7,20 +7,7 @@
     <p>Denna webbplats är skapad med hjälp av Blazor WebAssembly, som en del av moment 1 i kursen Webbutveckling med .NET.</p><br />
     <p>På undersidan för <i>Konvertering</i> kan du konvertera kilometer/h till miles/h samt meter till feet och på undersidan <i>JSON</i> kan du se vilka kurser jag läst under utbildningen utläst från en JSON- fil. Mycket nöje!</p>
     <br />
-
-    <h2>Gillar du sidan?</h2>
-    <button @onclick="likePage" class="likeBtn">Klicka här</button>
-    <p>Sidan har fått @likes likes. @thanks</p>
 </div>
-
-@code 
-{
-    private int likes = 0;
-    private string thanks = "";
-
-    private void likePage()
-    {
-        likes++;
-        thanks = "Tack så mycket!";
-    }
-}
+<div>
+    <Component />
+</div>
