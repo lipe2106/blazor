@@ -9,7 +9,7 @@
 
 @if (courses == null)
 {
-    <p><em>Laddar...</em></p>
+    <p><em>Det finns tyvärr inga kurser att läsa ut just nu. Försök igen senare. </em></p>
 }
 else
 {
@@ -39,6 +39,7 @@ else
 @code {
     private CourseList[]? courses;
 
+    // Get courses from json and save in array
     protected override async Task OnInitializedAsync()
     {
         courses = await Http.GetFromJsonAsync<CourseList[]>("sample-data/courses.json");
@@ -46,12 +47,8 @@ else
 
     public class CourseList
     {
-
         public string? Code { get; set; }
-
         public string? Name { get; set; }
-
         public string? Syllabus { get; set; }
-
     }
 }
